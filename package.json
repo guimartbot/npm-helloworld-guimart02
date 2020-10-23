@@ -1,0 +1,14 @@
+{
+  "name": "npm-helloworld-guimart02",
+  "version": "1.0.0",
+  "description": "Hola este es mi segundo proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Cordova",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
